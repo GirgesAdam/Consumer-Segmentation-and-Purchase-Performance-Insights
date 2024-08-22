@@ -7,6 +7,9 @@ I applied my skills in Python for Exploratory Data Analysis (EDA) and clustering
 After performing a comprehensive EDA and clustering analysis, I visualized the findings using Looker Studio, creating an interactive dashboard. This dashboard highlights key insights, including:
 
 Demographic breakdowns of consumer education and age.
+
 Analysis of consumer purchasing patterns across different channels (store, web, and catalog).
+
 Assessment of campaign effectiveness across different customer segments.
+
 Visual representation of cluster-based customer segmentation.
