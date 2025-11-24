@@ -1,6 +1,4 @@
 # Consumer-Segmentation-and-Purchase-Performance-Insights
-Dashboard:
-https://lookerstudio.google.com/reporting/173c917f-2310-421b-88c5-c0f6496c1f47
 
 I applied my skills in Python for Exploratory Data Analysis (EDA) and clustering segmentation to uncover insights from consumer data. The objective was to understand the demographic factors, purchase behaviors, and campaign success rates among different customer segments.
 
